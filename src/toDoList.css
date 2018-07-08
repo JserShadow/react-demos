@@ -1,0 +1,13 @@
+.list {
+  width: 50%;
+  list-style: none;
+}
+
+.name {
+  display: inline-block;
+  width: 100px;
+}
+
+.deleteButton {
+  width: 40px;
+}
